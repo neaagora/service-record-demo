@@ -81,6 +81,13 @@ The directory demo answers:
 
 > "What can a system do with that record?"
 
+## Quickstart
+
+1. Clone this repository
+2. Run `python generate_service_record.py`
+3. Check `artifacts/` for generated service records
+4. See the companion `dir-trust-ranking-poc` demo for how these records are consumed
+   
 ## Running the demo
 
 This repository produces example service record artifacts under:
